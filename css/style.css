@@ -25,8 +25,9 @@ padding: 10px;
 margin-left: 20px;
 }
 
-.a{
+.a {
     padding: 10px;
+    text-decoration: none;
     margin-left: 20px; 
 }
 
@@ -86,3 +87,4 @@ margin-left: 20px;
 .img14{
     background-image: url(../imatges/imatge14.png);
 }
+
